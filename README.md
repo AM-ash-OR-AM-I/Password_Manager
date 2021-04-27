@@ -1,6 +1,6 @@
 # Password_Manager
 
-This was a project created by me using entirely python and with help of kivymd. It's main purpose is to save passwords of different things securely ensureing that no-one other than user can use it. 
+This was a project created by me using entirely python and with help of kivymd. It's main purpose is to save passwords of different things securely ensuring that no-one other than user can use it. 
 
 It had 2 Versions, the older one is less secure and can be used for experimentation mostly
 The newer version (**PassLOCK - The Password Manager**) though never saves your master password.
