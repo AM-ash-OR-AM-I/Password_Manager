@@ -26,7 +26,7 @@ _Q.  But how can I use it in many devices?_
 
  Just use backup and restore, backup on one device and restore on another in real time!
 
-_Q. I've so many passwords it's hard to find them all! _
+_Q. I've so many passwords it's hard to find them all!_
 
 No worries enhanced search algorithm ensures you find everything with ease
 
@@ -42,7 +42,7 @@ It's unique way to encrypt passwords without saving the master password makes it
 
 
 
-**Foot Notes: **
+_Foot Notes:_
 
 Still worried about Security of the app? You better not :) , as it never remembers(or saves) your password !
 Only way it can give you access is when you give it correct master password and it decrypts all other passwords. 
