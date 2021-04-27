@@ -1,4 +1,6 @@
-FEATURES
+_**It is a Password  Manager and encrypter for android.**_
+
+**FEATURES**
 
 • Security through AES encryption
 
@@ -20,19 +22,19 @@ FEATURES
 
 FAQs
 
-Q.  But how can I use it in many devices?
+_Q.  But how can I use it in many devices?_
 
  Just use backup and restore, backup on one device and restore on another in real time!
 
-Q. I've so many passwords it's hard to find them all! 
+_Q. I've so many passwords it's hard to find them all! _
 
 No worries enhanced search algorithm ensures you find everything with ease
 
-Q. Tired of remembering passwords? Pass LOCK is here to rescue!
+_Q. Tired of remembering passwords? Pass LOCK is here to rescue!_
 
 You only need to remember one Master password
 
-Q. Worried about Security?
+_Q. Worried about Security?_
 
 It's unique way to encrypt passwords without saving the master password makes it safe.
 
@@ -40,7 +42,7 @@ It's unique way to encrypt passwords without saving the master password makes it
 
 
 
-Foot Notes: 
+**Foot Notes: **
 
 Still worried about Security of the app? You better not :) , as it never remembers(or saves) your password !
 Only way it can give you access is when you give it correct master password and it decrypts all other passwords. 
