@@ -1,4 +1,4 @@
-# Password_Manager
+# PASSLock -THE Password_Manager
 
 This was a project created by me using entirely python and with help of kivymd. It's main purpose is to save passwords of different things securely ensuring that no-one other than user can use it. 
 
